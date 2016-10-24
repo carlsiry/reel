@@ -1,8 +1,3 @@
-<style>
-    h1,h2,p {
-        text-align: center;
-    }
-</style>
 # 几个静态展示页面
 
 帮我高中同学做的静态展示页面
